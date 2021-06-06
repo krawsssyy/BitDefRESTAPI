@@ -8,7 +8,7 @@ pip3 install flask_login
 ## Running The App
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Viewing The App
