@@ -17,9 +17,9 @@ Go to `http://127.0.0.1:5000`
 
 ### Queries
 
-Adding : http://127.0.0.1:5000/add/<collection>
-Viewing : http://127.0.0.1:5000/view/<collection>
-Deleting : http://127.0.0.1:5000/delete/<collection>/<collectionID>
+Adding : http://127.0.0.1:5000/add/'<collection>'
+Viewing : http://127.0.0.1:5000/view/'<collection>'
+Deleting : http://127.0.0.1:5000/delete/'<collection>'/'<collectionID>'
 
 
 ### Types of producer
